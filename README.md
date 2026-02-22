@@ -39,8 +39,8 @@ When I'm not soldering sensors or coding microcontrollers, you'll find me explor
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_MU&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_MU&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nepturnnn&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nepturnnn&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
 </div>
 
 <br/>
@@ -50,16 +50,3 @@ When I'm not soldering sensors or coding microcontrollers, you'll find me explor
 </p>
 
 </div>--
-**Nepturnnn/Nepturnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
